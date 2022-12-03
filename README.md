@@ -190,13 +190,10 @@ Also he never stops seeking new technologies and ideas.
   <img src = "https://github-readme-stats.vercel.app/api?username=mr-new-0509&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=mr-new-0509&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 <br><br>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HashiramaDev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-new-0509&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
 <br/>
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
-<br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mr-new-0509&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br/>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
