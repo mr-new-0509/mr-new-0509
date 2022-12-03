@@ -4,7 +4,7 @@
 <h3>
 @OpenThink dislikes to introduce about his skills like other developers but likes to mention about his experience and work dones.<br />
 @OpenThink has been working at a few IT solutions of various regions since 2016.
-@OpenThink was a junior developer who had a little knowledge of web when he started this work, but now he is a aspiration senior one who has rich experience and solid opinions about web and blockchain.
+@OpenThink was a junior developer who had a little knowledge of web when he started this work, but now he is a aspirate senior one who has rich experience and solid opinions about web and blockchain.
 @OpenThink has many cool clients who are always satisfied for the high-quality and the fast pace of his work, but he is still keeping on meeting new ones.
 Also he never stops seeking new technologies and ideas.
 @OpenThink is always open to the people who wanna be friends with him.
